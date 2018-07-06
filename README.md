@@ -1,2 +1,2 @@
-# Recommender-System
-Implemented Collaborator Recommender System to recommend movies to users based on persona of a user which in turn determined by the movies he/she has watched and rated using Python
+# Movie-Recommender
+Simple Python code for Machine Learning collaborative filtering based recommender system
